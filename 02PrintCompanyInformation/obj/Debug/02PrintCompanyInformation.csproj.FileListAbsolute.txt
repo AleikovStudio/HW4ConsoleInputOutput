@@ -1,0 +1,5 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.pdb

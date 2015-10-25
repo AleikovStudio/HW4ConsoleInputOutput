@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\03CirclePerimeterArea\bin\Debug\03CirclePerimeterArea.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\03CirclePerimeterArea\bin\Debug\03CirclePerimeterArea.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\03CirclePerimeterArea\bin\Debug\03CirclePerimeterArea.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\03CirclePerimeterArea\obj\Debug\03CirclePerimeterArea.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\03CirclePerimeterArea\obj\Debug\03CirclePerimeterArea.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\03CirclePerimeterArea\obj\Debug\03CirclePerimeterArea.pdb

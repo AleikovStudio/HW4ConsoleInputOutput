@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\01SumOfThreeNumbers\bin\Debug\01SumOfThreeNumbers.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\01SumOfThreeNumbers\bin\Debug\01SumOfThreeNumbers.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\01SumOfThreeNumbers\bin\Debug\01SumOfThreeNumbers.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\01SumOfThreeNumbers\obj\Debug\01SumOfThreeNumbers.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\01SumOfThreeNumbers\obj\Debug\01SumOfThreeNumbers.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW4ConsoleInputOutput\01SumOfThreeNumbers\obj\Debug\01SumOfThreeNumbers.pdb
